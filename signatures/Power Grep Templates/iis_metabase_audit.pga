@@ -4,7 +4,7 @@
 		<fileselection globalmasks="1" includemasks="*_iis.txt">
 			<drive name="C:">
 				<folder name="projects">
-					<folder name="liveid_infrastructure">
+					<folder name="">
 						<folder name="host_reviews" marked="1" recursemasks="1"/>
 					</folder>
 				</folder>

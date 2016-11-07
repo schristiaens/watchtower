@@ -5,7 +5,7 @@
 			<drive name="Z:">
 				<folder name="security">
 					<folder name="client_data">
-						<folder name="URS-OP14601">
+						<folder name="test">
 							<folder name="Pentest">
 								<folder name="Source Code" marked="1" recursemasks="1"/>
 							</folder>

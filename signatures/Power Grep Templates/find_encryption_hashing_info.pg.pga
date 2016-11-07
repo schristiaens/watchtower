@@ -5,16 +5,16 @@
 			<drive name="T:">
 				<folder name="Projects">
 					<folder name="new">
-						<folder name="Broadridge">
+						<folder name="test">
 							<folder name="Source_Code">
-								<folder name="IMB" marked="1" recursemasks="1"/>
+								<folder name="test" marked="1" recursemasks="1"/>
 							</folder>
 						</folder>
-						<folder name="University_of_Rochester_Comp_App_Assessment" unmarked="1"/>
+						<folder name="test" unmarked="1"/>
 					</folder>
-					<folder name="Omni_American_Application_Assessment-[02_2008]" unmarked="1">
-						<folder name="Project_Planning">
-							<folder name="OMA" marked="1" recursemasks="1"/>
+					<folder name="test" unmarked="1">
+						<folder name="test">
+							<folder name="test" marked="1" recursemasks="1"/>
 						</folder>
 					</folder>
 				</folder>

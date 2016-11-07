@@ -4,9 +4,9 @@
 		<fileselection archives="1" globalmasks="1">
 			<drive name="T:">
 				<folder name="Projects">
-					<folder name="Omni_American_Application_Assessment-[02_2008]">
+					<folder name="">
 						<folder name="Project_Planning">
-							<folder name="OMA" marked="1" recursemasks="1"/>
+							<folder name="" marked="1" recursemasks="1"/>
 						</folder>
 					</folder>
 				</folder>

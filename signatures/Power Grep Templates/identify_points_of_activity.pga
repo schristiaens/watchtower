@@ -5,12 +5,12 @@
 			<drive name="T:">
 				<folder name="Projects">
 					<folder name="new">
-						<folder name="Davita_MCP">
-							<folder name="Application_Access_and_Code">
-								<folder name="MCP Code">
-									<folder name="MCP Code">
-										<folder name="MCP" marked="1" recursemasks="1"/>
-										<folder name="Web Services" marked="1" recursemasks="1"/>
+						<folder name="">
+							<folder name="A">
+								<folder name="">
+									<folder name=" Code">
+										<folder name="" marked="1" recursemasks="1"/>
+										<folder name=" Services" marked="1" recursemasks="1"/>
 									</folder>
 								</folder>
 							</folder>

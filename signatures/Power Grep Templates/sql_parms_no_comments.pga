@@ -4,15 +4,15 @@
 		<fileselection archives="1" globalmasks="1" excludemasks="*.html; *.htm; *.doc; *.pdf;*.sql;">
 			<drive name="T:">
 				<folder name="Projects">
-					<folder name="Omni_American_Application_Assessment-[02_2008]" unmarked="1">
-						<folder name="Project_Planning">
-							<folder name="OMA" marked="1" recursemasks="1"/>
+					<folder name="" unmarked="1">
+						<folder name="">
+							<folder name="" marked="1" recursemasks="1"/>
 						</folder>
 					</folder>
-					<folder name="University_of_Rochester_Comp_App_Assessment">
-						<folder name="UR_WWW_CODE" marked="1" recursemasks="1">
+					<folder name="">
+						<folder name="" marked="1" recursemasks="1">
 							<folder name="www-data">
-								<folder name="ITS">
+								<folder name="">
 									<folder name="web">
 										<folder name="blog" unmarked="1"/>
 									</folder>
